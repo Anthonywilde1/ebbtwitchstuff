@@ -1,0 +1,26 @@
+
+#bgOne {
+    background-image: url("./download.jpeg");
+    min-height: 75%;
+}
+
+#bgTwo {
+    background-image: url("./bg2.jpeg");
+    min-height: 75%;
+}
+
+#bgThree {
+    background-image: url("./florals-pokemon-lets-go-eevee-11562939815uzpy0bwya5.png");
+    min-height: 75%;
+}
+
+#bgOne, #bgTwo, #bgThree {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1, h2 {
+    text-align: center;
+}
