@@ -24,3 +24,7 @@
 h1, h2 {
     text-align: center;
 }
+
+body {
+    cursor: url(Kirby_Link.cur),auto;
+}
